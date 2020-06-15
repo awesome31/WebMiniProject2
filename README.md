@@ -11,12 +11,12 @@ Created a new react project, which takes the users current location using the ge
 
 ## Spinner Display
 
-<img src = './PhotoOne.png'>
+<img src = './PhotoOne.PNG'>
 
 ## Summer Display
 
-<img src = './PhotoTwo.png'>
+<img src = './PhotoTwo.PNG'>
 
 ## Winter Display
 
-<img src = './PhotoThree.png'>
+<img src = './PhotoThree.PNG'>
